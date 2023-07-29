@@ -1,0 +1,12 @@
+command: &comm
+ rank: colonel
+ unit: Aviation
+
+Taher:
+ name: Abdullah Taher
+ <<: *comm
+ unit: inf
+Haider:
+ name: Haider
+ <<: *comm
+ rank: major
