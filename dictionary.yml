@@ -1,0 +1,7 @@
+people: !!omap
+- Kayes:
+   name: Ikramul Kayes
+   age: 14
+- Mukto:
+   name: Mahfuz Mukto
+   age: 19 #indentation should match 
